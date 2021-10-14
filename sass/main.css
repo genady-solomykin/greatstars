@@ -992,7 +992,7 @@ body {
 }
 
 body:before {
-  content: url("../img/flag.jpg");
+  content: url("../img/flag1.gif");
   display: block;
   position: fixed;
   left: 0;
